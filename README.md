@@ -1,4 +1,4 @@
-#Site criado no curso de HTML do Professor Guanabara
+# Site criado no curso de HTML do Professor Guanabara
 
 Hospedado no Github no endereço https://william-marques.github.io/projeto-glass-html5/index.html
 
